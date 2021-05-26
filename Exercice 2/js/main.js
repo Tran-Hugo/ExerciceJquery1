@@ -1,0 +1,1 @@
+$("#paragraphe1").add("<p>Hi</p>").appendTo(document.body);
